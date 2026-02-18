@@ -1,4 +1,5 @@
-**My Portfolio **
+**My Portfolio**
+
 Minimal React + TypeScript + Vite setup for personal portfolio websites.
 
 **Features**
