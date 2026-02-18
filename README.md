@@ -1,22 +1,22 @@
-#My Portfolio 
+**My Portfolio **
 Minimal React + TypeScript + Vite setup for personal portfolio websites.
 
-#Features
+**Features**
 
 Hot Module Replacement (HMR)
 ESLint with React rules
 Plugins: @vitejs/plugin-react (Babel) or @vitejs/plugin-react-swc (SWC)
 
-#Installation
+**Installation**
 
 Clone repo: git clone https://github.com/Pawan-webdeveloper/Portfolio
 Install: npm install
 Run: npm run dev
 
-#Usage
+**Usage**
 Customize src/ components for your portfolio.
 
-#Technologies
+**Technologies**
 
 React
 TypeScript
